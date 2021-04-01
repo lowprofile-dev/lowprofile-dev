@@ -1,4 +1,4 @@
-![header](https://github.com/lowprofile-dev/rfontesdev/header.png?raw=true)
+<!---![header](https://github.com/lowprofile-dev/rfontesdev/header.png?raw=true)-->
 
 
 ## I am a Fullstack Software Engineer  👨‍💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lowprofile-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -14,8 +14,8 @@ very enthusiast developer with a wide variety of interests, including games, web
 - 🤔 I’m always looking for effective programming architectures.
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: rfontes@protonmail.com
-- 😄 Pronouns: Autodidacte, Challenging, Pssionate.
-- ⚡ Fun fact: I am Silver 2 in LOL.
+- 😄 Pronouns: Autodidacte, Challenging, Passionate.
+- ⚡ Fun fact:  I am always looking new technologies.
 
 ## Languages I am confident with
 
