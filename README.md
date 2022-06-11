@@ -5,17 +5,17 @@
 
 very enthusiast developer with a wide variety of interests, including games, web apps, and mobile business. 
 
-> 10 years of experience working as a Professional Programmer.
+> 11 years of experience working as a Professional Programmer.
 
-> Currently looking for new opportunities to engage in challenge projects 🔥 
+> Seo, Analytics, Security, Web, B2C, B2B, Omnichannel, Games 🔥 
 
-- 🔭 I’m currently working on Pharmacy Company with REACT/CSS3/PHP/MVC and rest-api services.
+- 🔭 I’m currently working as a Freelancer with REACT/CSS3/PHP/MVC and rest-api services.
 - 🌱 I’m a indie game developer in my freetime  with Unity3d (C#) and Three.js (Javascript) .
 - 🤔 I’m always looking for effective programming architectures.
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: rfontes@protonmail.com
 - 😄 Pronouns: Autodidacte, Challenging, Passionate.
-- ⚡ Fun fact:  I am always looking new technologies.
+- ⚡ Fun fact:  I am always looking for new technologies.
 
 ## Languages I am confident with
 
